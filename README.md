@@ -64,3 +64,6 @@ Brev configures your GPU with the right drivers and libraries. Use our open sour
 #### Connect:
 
 Brev.dev CLI automatically edits your ssh config so you can `ssh gpu-name` or run `brev open gpu-name` to open VS Code to the remote machine
+
+
+### Forked from brev-dev
